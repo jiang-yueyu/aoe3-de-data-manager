@@ -19,7 +19,7 @@
     <randomtech>SaloonSwissPikeman</randomtech>
     <randomtech>SaloonFusilier</randomtech>
     <randomtech>ypSaloonArsonist</randomtech>
-    <randomtech>SaloonGreatCannon</randomtech>
+    <forcetech>SaloonGreatCannon</forcetech>
     <randomtech>DESaloonNapoleonGun</randomtech>
     <randomtech>DESaloonZouave</randomtech>
     <randomtech>DESaloonSudaneseRider</randomtech>
@@ -57,7 +57,7 @@
     <randomtech>SaloonSwissPikeman</randomtech>
     <randomtech>SaloonFusilier</randomtech>
     <randomtech>ypSaloonArsonist</randomtech>
-    <randomtech>SaloonGreatCannon</randomtech>
+    <forcetech>SaloonGreatCannon</forcetech>
     <randomtech>DESaloonNapoleonGun</randomtech>
     <randomtech>DESaloonZouave</randomtech>
     <randomtech>DESaloonSudaneseRider</randomtech>
@@ -95,7 +95,7 @@
     <randomtech>SaloonSwissPikeman</randomtech>
     <randomtech>SaloonFusilier</randomtech>
     <randomtech>ypSaloonArsonist</randomtech>
-    <randomtech>SaloonGreatCannon</randomtech>
+    <forcetech>SaloonGreatCannon</forcetech>
     <randomtech>DESaloonNapoleonGun</randomtech>
     <randomtech>DESaloonZouave</randomtech>
     <randomtech>DESaloonSudaneseRider</randomtech>
@@ -131,7 +131,7 @@
     <randomtech>SaloonSwissPikeman</randomtech>
     <randomtech>SaloonFusilier</randomtech>
     <randomtech>ypSaloonArsonist</randomtech>
-    <randomtech>SaloonGreatCannon</randomtech>
+    <forcetech>SaloonGreatCannon</forcetech>
     <randomtech>DESaloonNapoleonGun</randomtech>
     <randomtech>DESaloonZouave</randomtech>
     <randomtech>DESaloonSudaneseRider</randomtech>
@@ -169,7 +169,7 @@
     <randomtech>SaloonSwissPikeman</randomtech>
     <randomtech>SaloonFusilier</randomtech>
     <randomtech>ypSaloonArsonist</randomtech>
-    <randomtech>SaloonGreatCannon</randomtech>
+    <forcetech>SaloonGreatCannon</forcetech>
     <randomtech>DESaloonNapoleonGun</randomtech>
     <randomtech>DESaloonZouave</randomtech>
     <randomtech>DESaloonSudaneseRider</randomtech>
@@ -205,7 +205,7 @@
     <randomtech>SaloonSwissPikeman</randomtech>
     <randomtech>SaloonFusilier</randomtech>
     <randomtech>ypSaloonArsonist</randomtech>
-    <randomtech>SaloonGreatCannon</randomtech>
+    <forcetech>SaloonGreatCannon</forcetech>
     <randomtech>DESaloonNapoleonGun</randomtech>
     <randomtech>DESaloonZouave</randomtech>
     <randomtech>DESaloonSudaneseRider</randomtech>
@@ -240,7 +240,7 @@
     <randomtech>SaloonSwissPikeman</randomtech>
     <randomtech>SaloonFusilier</randomtech>
     <randomtech>ypSaloonArsonist</randomtech>
-    <randomtech>SaloonGreatCannon</randomtech>
+    <forcetech>SaloonGreatCannon</forcetech>
     <randomtech>DESaloonNapoleonGun</randomtech>
     <randomtech>DESaloonZouave</randomtech>
     <randomtech>DESaloonSudaneseRider</randomtech>
@@ -276,7 +276,7 @@
     <randomtech>SaloonSwissPikeman</randomtech>
     <randomtech>SaloonFusilier</randomtech>
     <randomtech>ypSaloonArsonist</randomtech>
-    <randomtech>SaloonGreatCannon</randomtech>
+    <forcetech>SaloonGreatCannon</forcetech>
     <randomtech>DESaloonNapoleonGun</randomtech>
     <randomtech>DESaloonZouave</randomtech>
     <randomtech>DESaloonSudaneseRider</randomtech>
@@ -313,7 +313,7 @@
     <randomtech>SaloonJaeger</randomtech>
     <randomtech>SaloonSwissPikeman</randomtech>
     <randomtech>SaloonFusilier</randomtech>
-    <randomtech>SaloonGreatCannon</randomtech>
+    <forcetech>SaloonGreatCannon</forcetech>
     <randomtech>ypSaloonArsonist</randomtech>
     <randomtech>DESaloonNapoleonGun</randomtech>
     <randomtech>DESaloonZouave</randomtech>
@@ -353,7 +353,7 @@
     <randomtech>SaloonSwissPikeman</randomtech>
     <randomtech>SaloonFusilier</randomtech>
     <randomtech>ypSaloonArsonist</randomtech>
-    <randomtech>SaloonGreatCannon</randomtech>
+    <forcetech>SaloonGreatCannon</forcetech>
     <randomtech>DESaloonNapoleonGun</randomtech>
     <randomtech>DESaloonZouave</randomtech>
     <randomtech>DESaloonSudaneseRider</randomtech>
@@ -389,7 +389,7 @@
     <randomtech>SaloonSwissPikeman</randomtech>
     <randomtech>SaloonFusilier</randomtech>
     <randomtech>ypSaloonArsonist</randomtech>
-    <randomtech>SaloonGreatCannon</randomtech>
+    <forcetech>SaloonGreatCannon</forcetech>
     <randomtech>DESaloonNapoleonGun</randomtech>
     <randomtech>DESaloonZouave</randomtech>
     <randomtech>DESaloonSudaneseRider</randomtech>
@@ -425,7 +425,7 @@
     <randomtech>SaloonSwissPikeman</randomtech>
     <randomtech>SaloonFusilier</randomtech>
     <randomtech>ypSaloonArsonist</randomtech>
-    <randomtech>SaloonGreatCannon</randomtech>
+    <forcetech>SaloonGreatCannon</forcetech>
     <randomtech>DESaloonNapoleonGun</randomtech>
     <randomtech>DESaloonZouave</randomtech>
     <randomtech>DESaloonSudaneseRider</randomtech>
@@ -463,7 +463,7 @@
     <randomtech>SaloonSwissPikeman</randomtech>
     <randomtech>SaloonFusilier</randomtech>
     <randomtech>ypSaloonArsonist</randomtech>
-    <randomtech>SaloonGreatCannon</randomtech>
+    <forcetech>SaloonGreatCannon</forcetech>
     <randomtech>DESaloonNapoleonGun</randomtech>
     <randomtech>DESaloonZouave</randomtech>
     <randomtech>DESaloonSudaneseRider</randomtech>
@@ -500,7 +500,7 @@
     <randomtech>SaloonSwissPikeman</randomtech>
     <randomtech>SaloonFusilier</randomtech>
     <randomtech>ypSaloonArsonist</randomtech>
-    <randomtech>SaloonGreatCannon</randomtech>
+    <forcetech>SaloonGreatCannon</forcetech>
     <randomtech>DESaloonNapoleonGun</randomtech>
     <randomtech>DESaloonZouave</randomtech>
     <randomtech>DESaloonSudaneseRider</randomtech>
@@ -538,7 +538,7 @@
     <randomtech>SaloonSwissPikeman</randomtech>
     <randomtech>SaloonFusilier</randomtech>
     <randomtech>ypSaloonArsonist</randomtech>
-    <randomtech>SaloonGreatCannon</randomtech>
+    <forcetech>SaloonGreatCannon</forcetech>
     <randomtech>DESaloonNapoleonGun</randomtech>
     <randomtech>DESaloonZouave</randomtech>
     <randomtech>DESaloonSudaneseRider</randomtech>
@@ -576,7 +576,7 @@
     <randomtech>SaloonSwissPikeman</randomtech>
     <randomtech>SaloonFusilier</randomtech>
     <randomtech>ypSaloonArsonist</randomtech>
-    <randomtech>SaloonGreatCannon</randomtech>
+    <forcetech>SaloonGreatCannon</forcetech>
     <randomtech>DESaloonNapoleonGun</randomtech>
     <randomtech>DESaloonZouave</randomtech>
     <randomtech>DESaloonSudaneseRider</randomtech>
@@ -612,7 +612,7 @@
     <randomtech>SaloonSwissPikeman</randomtech>
     <randomtech>SaloonFusilier</randomtech>
     <randomtech>ypSaloonArsonist</randomtech>
-    <randomtech>SaloonGreatCannon</randomtech>
+    <forcetech>SaloonGreatCannon</forcetech>
     <randomtech>DESaloonNapoleonGun</randomtech>
     <randomtech>DESaloonZouave</randomtech>
     <randomtech>DESaloonSudaneseRider</randomtech>
@@ -648,7 +648,7 @@
     <randomtech>SaloonSwissPikeman</randomtech>
     <randomtech>SaloonFusilier</randomtech>
     <randomtech>ypSaloonArsonist</randomtech>
-    <randomtech>SaloonGreatCannon</randomtech>
+    <forcetech>SaloonGreatCannon</forcetech>
     <randomtech>DESaloonNapoleonGun</randomtech>
     <randomtech>DESaloonZouave</randomtech>
     <randomtech>DESaloonSudaneseRider</randomtech>
@@ -684,7 +684,7 @@
     <randomtech>SaloonSwissPikeman</randomtech>
     <randomtech>SaloonFusilier</randomtech>
     <randomtech>ypSaloonArsonist</randomtech>
-    <randomtech>SaloonGreatCannon</randomtech>
+    <forcetech>SaloonGreatCannon</forcetech>
     <randomtech>DESaloonNapoleonGun</randomtech>
     <randomtech>DESaloonZouave</randomtech>
     <randomtech>DESaloonSudaneseRider</randomtech>
@@ -722,7 +722,7 @@
     <randomtech>SaloonSwissPikeman</randomtech>
     <randomtech>SaloonFusilier</randomtech>
     <randomtech>ypSaloonArsonist</randomtech>
-    <randomtech>SaloonGreatCannon</randomtech>
+    <forcetech>SaloonGreatCannon</forcetech>
     <randomtech>DESaloonNapoleonGun</randomtech>
     <randomtech>DESaloonZouave</randomtech>
     <randomtech>DESaloonSudaneseRider</randomtech>
@@ -760,7 +760,7 @@
     <randomtech>SaloonSwissPikeman</randomtech>
     <randomtech>SaloonFusilier</randomtech>
     <randomtech>ypSaloonArsonist</randomtech>
-    <randomtech>SaloonGreatCannon</randomtech>
+    <forcetech>SaloonGreatCannon</forcetech>
     <randomtech>DESaloonNapoleonGun</randomtech>
     <randomtech>DESaloonZouave</randomtech>
     <randomtech>DESaloonSudaneseRider</randomtech>
@@ -796,7 +796,7 @@
     <randomtech>SaloonSwissPikeman</randomtech>
     <randomtech>SaloonFusilier</randomtech>
     <randomtech>ypSaloonArsonist</randomtech>
-    <randomtech>SaloonGreatCannon</randomtech>
+    <forcetech>SaloonGreatCannon</forcetech>
     <randomtech>DESaloonNapoleonGun</randomtech>
     <randomtech>DESaloonZouave</randomtech>
     <randomtech>DESaloonSudaneseRider</randomtech>
@@ -832,7 +832,7 @@
     <randomtech>SaloonSwissPikeman</randomtech>
     <randomtech>SaloonFusilier</randomtech>
     <randomtech>ypSaloonArsonist</randomtech>
-    <randomtech>SaloonGreatCannon</randomtech>
+    <forcetech>SaloonGreatCannon</forcetech>
     <randomtech>DESaloonNapoleonGun</randomtech>
     <randomtech>DESaloonZouave</randomtech>
     <randomtech>DESaloonSudaneseRider</randomtech>
@@ -884,7 +884,7 @@
     <randomtech>SaloonSwissPikeman</randomtech>
     <randomtech>SaloonFusilier</randomtech>
     <randomtech>ypSaloonArsonist</randomtech>
-    <randomtech>SaloonGreatCannon</randomtech>
+    <forcetech>SaloonGreatCannon</forcetech>
     <randomtech>DESaloonNapoleonGun</randomtech>
     <randomtech>DESaloonZouave</randomtech>
     <randomtech>DESaloonSudaneseRider</randomtech>
@@ -923,7 +923,7 @@
     <randomtech>SaloonSwissPikeman</randomtech>
     <randomtech>SaloonFusilier</randomtech>
     <randomtech>ypSaloonArsonist</randomtech>
-    <randomtech>SaloonGreatCannon</randomtech>
+    <forcetech>SaloonGreatCannon</forcetech>
     <randomtech>DESaloonNapoleonGun</randomtech>
     <randomtech>DESaloonZouave</randomtech>
     <randomtech>DESaloonSudaneseRider</randomtech>
@@ -962,7 +962,7 @@
     <randomtech>SaloonSwissPikeman</randomtech>
     <randomtech>SaloonFusilier</randomtech>
     <randomtech>ypSaloonArsonist</randomtech>
-    <randomtech>SaloonGreatCannon</randomtech>
+    <forcetech>SaloonGreatCannon</forcetech>
     <randomtech>DESaloonNapoleonGun</randomtech>
     <randomtech>DESaloonZouave</randomtech>
     <randomtech>DESaloonSudaneseRider</randomtech>
@@ -1001,7 +1001,7 @@
     <randomtech>SaloonSwissPikeman</randomtech>
     <randomtech>SaloonFusilier</randomtech>
     <randomtech>ypSaloonArsonist</randomtech>
-    <randomtech>SaloonGreatCannon</randomtech>
+    <forcetech>SaloonGreatCannon</forcetech>
     <randomtech>DESaloonNapoleonGun</randomtech>
     <randomtech>DESaloonZouave</randomtech>
     <randomtech>DESaloonSudaneseRider</randomtech>
@@ -1037,7 +1037,7 @@
     <randomtech>SaloonSwissPikeman</randomtech>
     <randomtech>SaloonFusilier</randomtech>
     <randomtech>ypSaloonArsonist</randomtech>
-    <randomtech>SaloonGreatCannon</randomtech>
+    <forcetech>SaloonGreatCannon</forcetech>
     <randomtech>DESaloonNapoleonGun</randomtech>
     <randomtech>DESaloonZouave</randomtech>
     <randomtech>DESaloonSudaneseRider</randomtech>
@@ -1076,7 +1076,7 @@
     <randomtech>SaloonSwissPikeman</randomtech>
     <randomtech>SaloonFusilier</randomtech>
     <randomtech>ypSaloonArsonist</randomtech>
-    <randomtech>SaloonGreatCannon</randomtech>
+    <forcetech>SaloonGreatCannon</forcetech>
     <randomtech>DESaloonNapoleonGun</randomtech>
     <randomtech>DESaloonZouave</randomtech>
     <randomtech>DESaloonSudaneseRider</randomtech>
@@ -1115,7 +1115,7 @@
     <randomtech>SaloonSwissPikeman</randomtech>
     <randomtech>SaloonFusilier</randomtech>
     <randomtech>ypSaloonArsonist</randomtech>
-    <randomtech>SaloonGreatCannon</randomtech>
+    <forcetech>SaloonGreatCannon</forcetech>
     <randomtech>DESaloonNapoleonGun</randomtech>
     <randomtech>DESaloonZouave</randomtech>
     <randomtech>DESaloonSudaneseRider</randomtech>
@@ -1151,7 +1151,7 @@
     <randomtech>SaloonSwissPikeman</randomtech>
     <randomtech>SaloonFusilier</randomtech>
     <randomtech>ypSaloonArsonist</randomtech>
-    <randomtech>SaloonGreatCannon</randomtech>
+    <forcetech>SaloonGreatCannon</forcetech>
     <randomtech>DESaloonNapoleonGun</randomtech>
     <randomtech>DESaloonZouave</randomtech>
     <randomtech>DESaloonSudaneseRider</randomtech>
@@ -1189,7 +1189,7 @@
     <randomtech>SaloonSwissPikeman</randomtech>
     <randomtech>SaloonFusilier</randomtech>
     <randomtech>ypSaloonArsonist</randomtech>
-    <randomtech>SaloonGreatCannon</randomtech>
+    <forcetech>SaloonGreatCannon</forcetech>
     <randomtech>DESaloonNapoleonGun</randomtech>
     <randomtech>DESaloonZouave</randomtech>
     <randomtech>DESaloonSudaneseRider</randomtech>
@@ -1227,7 +1227,7 @@
     <randomtech>SaloonSwissPikeman</randomtech>
     <randomtech>SaloonFusilier</randomtech>
     <randomtech>ypSaloonArsonist</randomtech>
-    <randomtech>SaloonGreatCannon</randomtech>
+    <forcetech>SaloonGreatCannon</forcetech>
     <randomtech>DESaloonNapoleonGun</randomtech>
     <randomtech>DESaloonZouave</randomtech>
     <randomtech>DESaloonSudaneseRider</randomtech>
@@ -1263,7 +1263,7 @@
     <randomtech>SaloonSwissPikeman</randomtech>
     <randomtech>SaloonFusilier</randomtech>
     <randomtech>ypSaloonArsonist</randomtech>
-    <randomtech>SaloonGreatCannon</randomtech>
+    <forcetech>SaloonGreatCannon</forcetech>
     <randomtech>DESaloonNapoleonGun</randomtech>
     <randomtech>DESaloonZouave</randomtech>
     <randomtech>DESaloonSudaneseRider</randomtech>
@@ -1302,7 +1302,7 @@
     <randomtech>SaloonSwissPikeman</randomtech>
     <randomtech>SaloonFusilier</randomtech>
     <randomtech>ypSaloonArsonist</randomtech>
-    <randomtech>SaloonGreatCannon</randomtech>
+    <forcetech>SaloonGreatCannon</forcetech>
     <randomtech>DESaloonNapoleonGun</randomtech>
     <randomtech>DESaloonZouave</randomtech>
     <randomtech>DESaloonSudaneseRider</randomtech>
@@ -1341,7 +1341,7 @@
     <randomtech>SaloonSwissPikeman</randomtech>
     <randomtech>SaloonFusilier</randomtech>
     <randomtech>ypSaloonArsonist</randomtech>
-    <randomtech>SaloonGreatCannon</randomtech>
+    <forcetech>SaloonGreatCannon</forcetech>
     <randomtech>DESaloonNapoleonGun</randomtech>
     <randomtech>DESaloonZouave</randomtech>
     <randomtech>DESaloonSudaneseRider</randomtech>
@@ -1378,7 +1378,7 @@
     <randomtech>SaloonSwissPikeman</randomtech>
     <randomtech>SaloonFusilier</randomtech>
     <randomtech>ypSaloonArsonist</randomtech>
-    <randomtech>SaloonGreatCannon</randomtech>
+    <forcetech>SaloonGreatCannon</forcetech>
     <randomtech>DESaloonNapoleonGun</randomtech>
     <randomtech>DESaloonZouave</randomtech>
     <randomtech>DESaloonSudaneseRider</randomtech>
@@ -1415,7 +1415,7 @@
     <randomtech>SaloonSwissPikeman</randomtech>
     <randomtech>SaloonFusilier</randomtech>
     <randomtech>ypSaloonArsonist</randomtech>
-    <randomtech>SaloonGreatCannon</randomtech>
+    <forcetech>SaloonGreatCannon</forcetech>
     <randomtech>DESaloonNapoleonGun</randomtech>
     <randomtech>DESaloonZouave</randomtech>
     <randomtech>DESaloonSudaneseRider</randomtech>
@@ -1467,7 +1467,7 @@
     <randomtech>SaloonSwissPikeman</randomtech>
     <randomtech>SaloonFusilier</randomtech>
     <randomtech>ypSaloonArsonist</randomtech>
-    <randomtech>SaloonGreatCannon</randomtech>
+    <forcetech>SaloonGreatCannon</forcetech>
     <randomtech>DESaloonNapoleonGun</randomtech>
     <randomtech>DESaloonZouave</randomtech>
     <randomtech>DESaloonSudaneseRider</randomtech>
@@ -1506,7 +1506,7 @@
     <randomtech>SaloonSwissPikeman</randomtech>
     <randomtech>SaloonFusilier</randomtech>
     <randomtech>ypSaloonArsonist</randomtech>
-    <randomtech>SaloonGreatCannon</randomtech>
+    <forcetech>SaloonGreatCannon</forcetech>
     <randomtech>DESaloonNapoleonGun</randomtech>
     <randomtech>DESaloonZouave</randomtech>
     <randomtech>DESaloonSudaneseRider</randomtech>
@@ -1543,7 +1543,7 @@
     <randomtech>SaloonSwissPikeman</randomtech>
     <randomtech>SaloonFusilier</randomtech>
     <randomtech>ypSaloonArsonist</randomtech>
-    <randomtech>SaloonGreatCannon</randomtech>
+    <forcetech>SaloonGreatCannon</forcetech>
     <randomtech>DESaloonNapoleonGun</randomtech>
     <randomtech>DESaloonZouave</randomtech>
     <randomtech>DESaloonSudaneseRider</randomtech>
@@ -1581,7 +1581,7 @@
     <randomtech>SaloonSwissPikeman</randomtech>
     <randomtech>SaloonFusilier</randomtech>
     <randomtech>ypSaloonArsonist</randomtech>
-    <randomtech>SaloonGreatCannon</randomtech>
+    <forcetech>SaloonGreatCannon</forcetech>
     <randomtech>DESaloonNapoleonGun</randomtech>
     <randomtech>DESaloonZouave</randomtech>
     <randomtech>DESaloonSudaneseRider</randomtech>
@@ -1619,7 +1619,7 @@
     <randomtech>SaloonSwissPikeman</randomtech>
     <randomtech>SaloonFusilier</randomtech>
     <randomtech>ypSaloonArsonist</randomtech>
-    <randomtech>SaloonGreatCannon</randomtech>
+    <forcetech>SaloonGreatCannon</forcetech>
     <randomtech>DESaloonNapoleonGun</randomtech>
     <randomtech>DESaloonZouave</randomtech>
     <randomtech>DESaloonSudaneseRider</randomtech>
@@ -1657,7 +1657,7 @@
     <randomtech>SaloonSwissPikeman</randomtech>
     <randomtech>SaloonFusilier</randomtech>
     <randomtech>ypSaloonArsonist</randomtech>
-    <randomtech>SaloonGreatCannon</randomtech>
+    <forcetech>SaloonGreatCannon</forcetech>
     <randomtech>DESaloonNapoleonGun</randomtech>
     <randomtech>DESaloonZouave</randomtech>
     <randomtech>DESaloonSudaneseRider</randomtech>
@@ -1696,7 +1696,7 @@
     <randomtech>SaloonSwissPikeman</randomtech>
     <randomtech>SaloonFusilier</randomtech>
     <randomtech>ypSaloonArsonist</randomtech>
-    <randomtech>SaloonGreatCannon</randomtech>
+    <forcetech>SaloonGreatCannon</forcetech>
     <randomtech>DESaloonNapoleonGun</randomtech>
     <randomtech>DESaloonZouave</randomtech>
     <randomtech>DESaloonSudaneseRider</randomtech>
@@ -1734,7 +1734,7 @@
     <randomtech>SaloonSwissPikeman</randomtech>
     <randomtech>SaloonFusilier</randomtech>
     <randomtech>ypSaloonArsonist</randomtech>
-    <randomtech>SaloonGreatCannon</randomtech>
+    <forcetech>SaloonGreatCannon</forcetech>
     <randomtech>DESaloonNapoleonGun</randomtech>
     <randomtech>DESaloonZouave</randomtech>
     <randomtech>DESaloonSudaneseRider</randomtech>
@@ -1772,7 +1772,7 @@
     <randomtech>SaloonSwissPikeman</randomtech>
     <randomtech>SaloonFusilier</randomtech>
     <randomtech>ypSaloonArsonist</randomtech>
-    <randomtech>SaloonGreatCannon</randomtech>
+    <forcetech>SaloonGreatCannon</forcetech>
     <randomtech>DESaloonNapoleonGun</randomtech>
     <randomtech>DESaloonZouave</randomtech>
     <randomtech>DESaloonSudaneseRider</randomtech>
@@ -1811,7 +1811,7 @@
     <randomtech>SaloonSwissPikeman</randomtech>
     <randomtech>SaloonFusilier</randomtech>
     <randomtech>ypSaloonArsonist</randomtech>
-    <randomtech>SaloonGreatCannon</randomtech>
+    <forcetech>SaloonGreatCannon</forcetech>
     <randomtech>DESaloonNapoleonGun</randomtech>
     <randomtech>DESaloonZouave</randomtech>
     <randomtech>DESaloonSudaneseRider</randomtech>
@@ -1850,7 +1850,7 @@
     <randomtech>SaloonSwissPikeman</randomtech>
     <randomtech>SaloonFusilier</randomtech>
     <randomtech>ypSaloonArsonist</randomtech>
-    <randomtech>SaloonGreatCannon</randomtech>
+    <forcetech>SaloonGreatCannon</forcetech>
     <randomtech>DESaloonNapoleonGun</randomtech>
     <randomtech>DESaloonZouave</randomtech>
     <randomtech>DESaloonSudaneseRider</randomtech>
@@ -1892,7 +1892,7 @@
     <randomtech>SaloonSwissPikeman</randomtech>
     <randomtech>SaloonFusilier</randomtech>
     <randomtech>ypSaloonArsonist</randomtech>
-    <randomtech>SaloonGreatCannon</randomtech>
+    <forcetech>SaloonGreatCannon</forcetech>
     <randomtech>DESaloonNapoleonGun</randomtech>
     <randomtech>DESaloonZouave</randomtech>
     <randomtech>DESaloonSudaneseRider</randomtech>
@@ -1931,7 +1931,7 @@
     <randomtech>SaloonSwissPikeman</randomtech>
     <randomtech>SaloonFusilier</randomtech>
     <randomtech>ypSaloonArsonist</randomtech>
-    <randomtech>SaloonGreatCannon</randomtech>
+    <forcetech>SaloonGreatCannon</forcetech>
     <randomtech>DESaloonNapoleonGun</randomtech>
     <randomtech>DESaloonZouave</randomtech>
     <randomtech>DESaloonSudaneseRider</randomtech>
@@ -1969,7 +1969,7 @@
     <randomtech>SaloonSwissPikeman</randomtech>
     <randomtech>SaloonFusilier</randomtech>
     <randomtech>ypSaloonArsonist</randomtech>
-    <randomtech>SaloonGreatCannon</randomtech>
+    <forcetech>SaloonGreatCannon</forcetech>
     <randomtech>DESaloonNapoleonGun</randomtech>
     <randomtech>DESaloonZouave</randomtech>
     <randomtech>DESaloonSudaneseRider</randomtech>
@@ -2009,7 +2009,7 @@
     <randomtech>SaloonSwissPikeman</randomtech>
     <randomtech>SaloonFusilier</randomtech>
     <randomtech>ypSaloonArsonist</randomtech>
-    <randomtech>SaloonGreatCannon</randomtech>
+    <forcetech>SaloonGreatCannon</forcetech>
     <randomtech>DESaloonNapoleonGun</randomtech>
     <randomtech>DESaloonZouave</randomtech>
     <randomtech>DESaloonSudaneseRider</randomtech>
@@ -2049,7 +2049,7 @@
     <randomtech>SaloonSwissPikeman</randomtech>
     <randomtech>SaloonFusilier</randomtech>
     <randomtech>ypSaloonArsonist</randomtech>
-    <randomtech>SaloonGreatCannon</randomtech>
+    <forcetech>SaloonGreatCannon</forcetech>
     <randomtech>DESaloonNapoleonGun</randomtech>
     <randomtech>DESaloonZouave</randomtech>
     <randomtech>DESaloonSudaneseRider</randomtech>
@@ -2088,7 +2088,7 @@
     <randomtech>SaloonSwissPikeman</randomtech>
     <randomtech>SaloonFusilier</randomtech>
     <randomtech>ypSaloonArsonist</randomtech>
-    <randomtech>SaloonGreatCannon</randomtech>
+    <forcetech>SaloonGreatCannon</forcetech>
     <randomtech>DESaloonNapoleonGun</randomtech>
     <randomtech>DESaloonZouave</randomtech>
     <randomtech>DESaloonSudaneseRider</randomtech>
@@ -2128,7 +2128,7 @@
     <randomtech>SaloonSwissPikeman</randomtech>
     <randomtech>SaloonFusilier</randomtech>
     <randomtech>ypSaloonArsonist</randomtech>
-    <randomtech>SaloonGreatCannon</randomtech>
+    <forcetech>SaloonGreatCannon</forcetech>
     <randomtech>DESaloonNapoleonGun</randomtech>
     <randomtech>DESaloonZouave</randomtech>
     <randomtech>DESaloonSudaneseRider</randomtech>
@@ -2167,7 +2167,7 @@
     <randomtech>SaloonSwissPikeman</randomtech>
     <randomtech>SaloonFusilier</randomtech>
     <randomtech>ypSaloonArsonist</randomtech>
-    <randomtech>SaloonGreatCannon</randomtech>
+    <forcetech>SaloonGreatCannon</forcetech>
     <randomtech>DESaloonNapoleonGun</randomtech>
     <randomtech>DESaloonZouave</randomtech>
     <randomtech>DESaloonSudaneseRider</randomtech>
@@ -2206,7 +2206,7 @@
     <randomtech>SaloonSwissPikeman</randomtech>
     <randomtech>SaloonFusilier</randomtech>
     <randomtech>ypSaloonArsonist</randomtech>
-    <randomtech>SaloonGreatCannon</randomtech>
+    <forcetech>SaloonGreatCannon</forcetech>
     <randomtech>DESaloonNapoleonGun</randomtech>
     <randomtech>DESaloonZouave</randomtech>
     <randomtech>ypSaloonJat</randomtech>
@@ -2248,7 +2248,7 @@
     <randomtech>SaloonSwissPikeman</randomtech>
     <randomtech>SaloonFusilier</randomtech>
     <randomtech>ypSaloonArsonist</randomtech>
-    <randomtech>SaloonGreatCannon</randomtech>
+    <forcetech>SaloonGreatCannon</forcetech>
     <randomtech>DESaloonNapoleonGun</randomtech>
     <randomtech>DESaloonZouave</randomtech>
     <randomtech>DESaloonSudaneseRider</randomtech>
@@ -2287,7 +2287,7 @@
     <randomtech>SaloonSwissPikeman</randomtech>
     <randomtech>SaloonFusilier</randomtech>
     <randomtech>ypSaloonArsonist</randomtech>
-    <randomtech>SaloonGreatCannon</randomtech>
+    <forcetech>SaloonGreatCannon</forcetech>
     <randomtech>DESaloonNapoleonGun</randomtech>
     <randomtech>DESaloonZouave</randomtech>
     <randomtech>DESaloonSudaneseRider</randomtech>
@@ -2325,7 +2325,7 @@
     <randomtech>SaloonSwissPikeman</randomtech>
     <randomtech>SaloonFusilier</randomtech>
     <randomtech>ypSaloonArsonist</randomtech>
-    <randomtech>SaloonGreatCannon</randomtech>
+    <forcetech>SaloonGreatCannon</forcetech>
     <randomtech>DESaloonNapoleonGun</randomtech>
     <randomtech>DESaloonZouave</randomtech>
     <randomtech>DESaloonSudaneseRider</randomtech>
@@ -2364,7 +2364,7 @@
     <randomtech>SaloonSwissPikeman</randomtech>
     <randomtech>SaloonFusilier</randomtech>
     <randomtech>ypSaloonArsonist</randomtech>
-    <randomtech>SaloonGreatCannon</randomtech>
+    <forcetech>SaloonGreatCannon</forcetech>
     <randomtech>DESaloonNapoleonGun</randomtech>
     <randomtech>DESaloonZouave</randomtech>
     <randomtech>DESaloonSudaneseRider</randomtech>
@@ -2402,7 +2402,7 @@
     <randomtech>SaloonSwissPikeman</randomtech>
     <randomtech>SaloonFusilier</randomtech>
     <randomtech>ypSaloonArsonist</randomtech>
-    <randomtech>SaloonGreatCannon</randomtech>
+    <forcetech>SaloonGreatCannon</forcetech>
     <randomtech>DESaloonNapoleonGun</randomtech>
     <randomtech>DESaloonZouave</randomtech>
     <randomtech>DESaloonSudaneseRider</randomtech>
@@ -2444,7 +2444,7 @@
     <randomtech>SaloonSwissPikeman</randomtech>
     <randomtech>SaloonFusilier</randomtech>
     <randomtech>ypSaloonArsonist</randomtech>
-    <randomtech>SaloonGreatCannon</randomtech>
+    <forcetech>SaloonGreatCannon</forcetech>
     <randomtech>DESaloonNapoleonGun</randomtech>
     <randomtech>DESaloonZouave</randomtech>
     <randomtech>DESaloonSudaneseRider</randomtech>
@@ -2482,7 +2482,7 @@
     <randomtech>SaloonSwissPikeman</randomtech>
     <randomtech>SaloonFusilier</randomtech>
     <randomtech>ypSaloonArsonist</randomtech>
-    <randomtech>SaloonGreatCannon</randomtech>
+    <forcetech>SaloonGreatCannon</forcetech>
     <randomtech>DESaloonNapoleonGun</randomtech>
     <randomtech>DESaloonZouave</randomtech>
     <randomtech>DESaloonSudaneseRider</randomtech>
@@ -2521,7 +2521,7 @@
     <randomtech>SaloonSwissPikeman</randomtech>
     <randomtech>SaloonFusilier</randomtech>
     <randomtech>ypSaloonArsonist</randomtech>
-    <randomtech>SaloonGreatCannon</randomtech>
+    <forcetech>SaloonGreatCannon</forcetech>
     <randomtech>DESaloonNapoleonGun</randomtech>
     <randomtech>DESaloonZouave</randomtech>
     <randomtech>DESaloonSudaneseRider</randomtech>
@@ -2560,7 +2560,7 @@
     <randomtech>SaloonSwissPikeman</randomtech>
     <randomtech>SaloonFusilier</randomtech>
     <randomtech>ypSaloonArsonist</randomtech>
-    <randomtech>SaloonGreatCannon</randomtech>
+    <forcetech>SaloonGreatCannon</forcetech>
     <randomtech>DESaloonNapoleonGun</randomtech>
     <randomtech>DESaloonZouave</randomtech>
     <randomtech>DESaloonSudaneseRider</randomtech>
@@ -2599,7 +2599,7 @@
     <randomtech>SaloonSwissPikeman</randomtech>
     <randomtech>SaloonFusilier</randomtech>
     <randomtech>ypSaloonArsonist</randomtech>
-    <randomtech>SaloonGreatCannon</randomtech>
+    <forcetech>SaloonGreatCannon</forcetech>
     <randomtech>DESaloonNapoleonGun</randomtech>
     <randomtech>DESaloonZouave</randomtech>
     <randomtech>DESaloonSudaneseRider</randomtech>
@@ -2637,7 +2637,7 @@
     <randomtech>SaloonSwissPikeman</randomtech>
     <randomtech>SaloonFusilier</randomtech>
     <randomtech>ypSaloonArsonist</randomtech>
-    <randomtech>SaloonGreatCannon</randomtech>
+    <forcetech>SaloonGreatCannon</forcetech>
     <randomtech>DESaloonNapoleonGun</randomtech>
     <randomtech>DESaloonZouave</randomtech>
     <randomtech>DESaloonSudaneseRider</randomtech>
@@ -2677,7 +2677,7 @@
     <randomtech>SaloonSwissPikeman</randomtech>
     <randomtech>SaloonFusilier</randomtech>
     <randomtech>ypSaloonArsonist</randomtech>
-    <randomtech>SaloonGreatCannon</randomtech>
+    <forcetech>SaloonGreatCannon</forcetech>
     <randomtech>DESaloonNapoleonGun</randomtech>
     <randomtech>DESaloonZouave</randomtech>
     <randomtech>DESaloonSudaneseRider</randomtech>
@@ -2717,7 +2717,7 @@
     <randomtech>SaloonSwissPikeman</randomtech>
     <randomtech>SaloonFusilier</randomtech>
     <randomtech>ypSaloonArsonist</randomtech>
-    <randomtech>SaloonGreatCannon</randomtech>
+    <forcetech>SaloonGreatCannon</forcetech>
     <randomtech>DESaloonNapoleonGun</randomtech>
     <randomtech>DESaloonZouave</randomtech>
     <randomtech>DESaloonSudaneseRider</randomtech>
@@ -2757,7 +2757,7 @@
     <randomtech>SaloonSwissPikeman</randomtech>
     <randomtech>SaloonFusilier</randomtech>
     <randomtech>ypSaloonArsonist</randomtech>
-    <randomtech>SaloonGreatCannon</randomtech>
+    <forcetech>SaloonGreatCannon</forcetech>
     <randomtech>DESaloonNapoleonGun</randomtech>
     <randomtech>DESaloonZouave</randomtech>
     <randomtech>DESaloonSudaneseRider</randomtech>
@@ -2793,7 +2793,7 @@
     <randomtech>SaloonSwissPikeman</randomtech>
     <randomtech>SaloonFusilier</randomtech>
     <randomtech>ypSaloonArsonist</randomtech>
-    <randomtech>SaloonGreatCannon</randomtech>
+    <forcetech>SaloonGreatCannon</forcetech>
     <randomtech>DESaloonNapoleonGun</randomtech>
     <randomtech>DESaloonZouave</randomtech>
     <randomtech>DESaloonSudaneseRider</randomtech>
@@ -2829,7 +2829,7 @@
     <randomtech>SaloonSwissPikeman</randomtech>
     <randomtech>SaloonFusilier</randomtech>
     <randomtech>ypSaloonArsonist</randomtech>
-    <randomtech>SaloonGreatCannon</randomtech>
+    <forcetech>SaloonGreatCannon</forcetech>
     <randomtech>DESaloonNapoleonGun</randomtech>
     <randomtech>DESaloonZouave</randomtech>
     <randomtech>DESaloonSudaneseRider</randomtech>
@@ -2865,7 +2865,7 @@
     <randomtech>SaloonSwissPikeman</randomtech>
     <randomtech>SaloonFusilier</randomtech>
     <randomtech>ypSaloonArsonist</randomtech>
-    <randomtech>SaloonGreatCannon</randomtech>
+    <forcetech>SaloonGreatCannon</forcetech>
     <randomtech>DESaloonNapoleonGun</randomtech>
     <randomtech>DESaloonZouave</randomtech>
     <randomtech>DESaloonSudaneseRider</randomtech>
@@ -2902,7 +2902,7 @@
     <randomtech>SaloonSwissPikeman</randomtech>
     <randomtech>SaloonFusilier</randomtech>
     <randomtech>ypSaloonArsonist</randomtech>
-    <randomtech>SaloonGreatCannon</randomtech>
+    <forcetech>SaloonGreatCannon</forcetech>
     <randomtech>DESaloonNapoleonGun</randomtech>
     <randomtech>DESaloonZouave</randomtech>
     <randomtech>DESaloonSudaneseRider</randomtech>
@@ -2939,7 +2939,7 @@
     <randomtech>SaloonSwissPikeman</randomtech>
     <randomtech>SaloonFusilier</randomtech>
     <randomtech>ypSaloonArsonist</randomtech>
-    <randomtech>SaloonGreatCannon</randomtech>
+    <forcetech>SaloonGreatCannon</forcetech>
     <randomtech>DESaloonNapoleonGun</randomtech>
     <randomtech>DESaloonZouave</randomtech>
     <randomtech>DESaloonSudaneseRider</randomtech>
@@ -2977,7 +2977,7 @@
     <randomtech>SaloonSwissPikeman</randomtech>
     <randomtech>SaloonFusilier</randomtech>
     <randomtech>ypSaloonArsonist</randomtech>
-    <randomtech>SaloonGreatCannon</randomtech>
+    <forcetech>SaloonGreatCannon</forcetech>
     <randomtech>DESaloonNapoleonGun</randomtech>
     <randomtech>DESaloonZouave</randomtech>
     <randomtech>DESaloonSudaneseRider</randomtech>
@@ -3013,7 +3013,7 @@
     <randomtech>SaloonSwissPikeman</randomtech>
     <randomtech>SaloonFusilier</randomtech>
     <randomtech>ypSaloonArsonist</randomtech>
-    <randomtech>SaloonGreatCannon</randomtech>
+    <forcetech>SaloonGreatCannon</forcetech>
     <randomtech>DESaloonNapoleonGun</randomtech>
     <randomtech>DESaloonZouave</randomtech>
     <randomtech>DESaloonSudaneseRider</randomtech>
@@ -3050,7 +3050,7 @@
     <randomtech>SaloonSwissPikeman</randomtech>
     <randomtech>SaloonFusilier</randomtech>
     <randomtech>ypSaloonArsonist</randomtech>
-    <randomtech>SaloonGreatCannon</randomtech>
+    <forcetech>SaloonGreatCannon</forcetech>
     <randomtech>DESaloonNapoleonGun</randomtech>
     <randomtech>DESaloonZouave</randomtech>
     <randomtech>DESaloonSudaneseRider</randomtech>
@@ -3088,7 +3088,7 @@
     <randomtech>SaloonSwissPikeman</randomtech>
     <randomtech>SaloonFusilier</randomtech>
     <randomtech>ypSaloonArsonist</randomtech>
-    <randomtech>SaloonGreatCannon</randomtech>
+    <forcetech>SaloonGreatCannon</forcetech>
     <randomtech>DESaloonNapoleonGun</randomtech>
     <randomtech>DESaloonZouave</randomtech>
     <randomtech>DESaloonSudaneseRider</randomtech>
@@ -3125,7 +3125,7 @@
     <randomtech>SaloonSwissPikeman</randomtech>
     <randomtech>SaloonFusilier</randomtech>
     <randomtech>ypSaloonArsonist</randomtech>
-    <randomtech>SaloonGreatCannon</randomtech>
+    <forcetech>SaloonGreatCannon</forcetech>
     <randomtech>DESaloonNapoleonGun</randomtech>
     <randomtech>DESaloonZouave</randomtech>
     <randomtech>DESaloonSudaneseRider</randomtech>
@@ -3164,7 +3164,7 @@
     <randomtech>SaloonSwissPikeman</randomtech>
     <randomtech>SaloonFusilier</randomtech>
     <randomtech>ypSaloonArsonist</randomtech>
-    <randomtech>SaloonGreatCannon</randomtech>
+    <forcetech>SaloonGreatCannon</forcetech>
     <randomtech>DESaloonNapoleonGun</randomtech>
     <randomtech>DESaloonZouave</randomtech>
     <randomtech>DESaloonSudaneseRider</randomtech>
@@ -3200,7 +3200,7 @@
     <randomtech>SaloonSwissPikeman</randomtech>
     <randomtech>SaloonFusilier</randomtech>
     <randomtech>ypSaloonArsonist</randomtech>
-    <randomtech>SaloonGreatCannon</randomtech>
+    <forcetech>SaloonGreatCannon</forcetech>
     <randomtech>DESaloonNapoleonGun</randomtech>
     <randomtech>DESaloonZouave</randomtech>
     <randomtech>DESaloonSudaneseRider</randomtech>
