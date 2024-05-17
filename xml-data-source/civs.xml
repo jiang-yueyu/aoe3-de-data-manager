@@ -4,7 +4,7 @@
     <wood>100</wood>
   </subcivalliancecost>
   <subcivalliancecostfactor>2.0</subcivalliancecostfactor>
-  <maxdecksize>35</maxdecksize>
+  <maxdecksize>40</maxdecksize>
   <defaultpoplimit>200</defaultpoplimit>
   <defaultpopextralimit>50</defaultpopextralimit>
   <defaultcontainedregenrate>0.25</defaultcontainedregenrate>
