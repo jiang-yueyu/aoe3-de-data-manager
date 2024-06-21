@@ -5,7 +5,7 @@
   </subcivalliancecost>
   <subcivalliancecostfactor>2.0</subcivalliancecostfactor>
   <maxdecksize>40</maxdecksize>
-  <defaultpoplimit>200</defaultpoplimit>
+  <defaultpoplimit>250</defaultpoplimit>
   <defaultpopextralimit>50</defaultpopextralimit>
   <defaultcontainedregenrate>0.25</defaultcontainedregenrate>
   <displayfame>0</displayfame>
